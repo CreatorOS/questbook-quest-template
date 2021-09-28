@@ -67,6 +67,7 @@ As a part of this `LEARN.md`, create a LEARN.md file in your repo. You can defin
 
 ### Test cases
 | comilation docker image | https://github.com/CreatorOS/osaes-images/docker-compilation-image1 |
+| ----------------------- | ------------------------------------------------------------------- |
 | deployment docker image | https://github.com/CreatorOS/osaes-images/docker-deployment-image1 |
 | compilation command | you can use $DIR to substitute for the submitted project root directory |
 | deployment command | again, you can use $DIR for submission root directory |
