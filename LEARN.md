@@ -5,7 +5,6 @@
 | pragma | osaes 0.0.1 |
 | ------ | ----------- |
 | published | false |
-| --------- | ----- |
 
 # _Replace with title of the project the learner will be able to build after this tutorial_
 
